@@ -2,9 +2,6 @@ package main
 
 import (
   "fmt"
-  //"os"
-  //"strings"
-  //"math"
 )
 
 const (
@@ -13,7 +10,6 @@ const (
 )
 
 var gradesArray [ROWSIZE][COLSIZE]int
-//@@
 var expValueArray [ROWSIZE][COLSIZE]float64
 var grandTotal int = 0
 var rowArray [ROWSIZE]int
